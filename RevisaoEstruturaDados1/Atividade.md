@@ -48,3 +48,5 @@ int main()
 
     return 0;
 }
+
+obs: Ser-me-ia bom uma revisão em algoritmos de ordenação, Fibonacci e fatorial usando a sintaxe do C ansi.
