@@ -150,6 +150,12 @@ int main(){
             break;
 
             case 5: {
+                Paciente *atual = inicio;
+                while(atual != NULL){
+                    Paciente *temp = atual;
+                    atual = atual->proximo;
+                    free(temp);
+                }
                 break;
             }
             default:
