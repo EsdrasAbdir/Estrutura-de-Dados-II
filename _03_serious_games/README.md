@@ -265,3 +265,8 @@ Após a execução do arquivo `.exe`, o simulador será iniciado e estará pront
 * **Arthur Canton Souza de Paula**
 * **João Lucas Ataide de Melo**
 * **Douglas Patriota Lopes**
+
+---
+
+# 👤 Autor do projeto original
+Athanasios Gourdomichalis - https://github.com/AthanasiosGourdomichalis
