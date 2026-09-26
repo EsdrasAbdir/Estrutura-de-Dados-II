@@ -32,7 +32,7 @@ O modelo original foi desenvolvido em C++ e possibilita:
 - Visualização gráfica da árvore;
 - Execução de diferentes percursos de travessia.
 
-![EMBEDDEDIMAGE](placeholder-0)
+![EMBEDDEDIMAGE](https://github.com/user-attachments/assets/2a4ebd18-909a-4adb-a9e0-475571cbac0a) 
 
 ---
 
@@ -56,8 +56,6 @@ A aplicação não verifica se a árvore construída segue propriedades de orden
 - Falta de treinamento guiado;
 - Pouca imersão sonora;
 - Ausência de explicações sobre os conceitos explorados.
-
-![EMBEDDEDIMAGE](placeholder-1)
 
 ---
 
@@ -255,4 +253,15 @@ O executável depende desses arquivos para carregar corretamente os recursos gr�
 8. Utilizar o simulador
 ```
 
-Após a execução do arquivo `.exe`, o simulador será iniciado e estará pronto para o estudo interativo de Árvores Binárias, Árvores Binárias de Busca (BST) e das melhorias propostas utilizando Árvores Rubro-Negras.
+Após a execução do arquivo `.exe`, o simulador será iniciado e estará pronto para o estudo interativo de Árvores Binárias e Árvores Binárias de Busca (BST).
+
+---
+
+## 👥 Equipe e Créditos
+
+**Disciplina:** Estruturas de Dados II — Ciência da Computação 
+
+* **Esdras Abdir Issacar da Silva Oliveira**
+* **Arthur Canton Souza de Paula**
+* **João Lucas Ataide de Melo**
+* **Douglas Patriota Lopes**
