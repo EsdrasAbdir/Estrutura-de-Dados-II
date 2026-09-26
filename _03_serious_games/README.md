@@ -1,3 +1,4 @@
+
 # Tree Traversal Simulator - Red Black Tree Edition
 
 ## 📚 Sobre o Projeto
@@ -72,6 +73,8 @@ A estrutura escolhida para o upgrade foi a **Árvore Rubro-Negra**, baseada em:
 - Rotações;
 - Recoloração automática;
 - Balanceamento eficiente.
+
+  https://github.com/user-attachments/assets/c4792f43-7913-4f9e-9c0f-0bd99e12dfb9
 
 ### ✅ Validação de BST
 
