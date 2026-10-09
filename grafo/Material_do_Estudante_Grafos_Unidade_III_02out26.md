@@ -53,8 +53,8 @@ Considere:
 
 ### Faça
 
-1.  Desenhe o grafo.
-2.  Identifique o número de vértices.
+1.  Desenhe o grafo. 
+2.  Identifique o número de vértices. 
 3.  Identifique o número de arestas.
 4.  Determine a ordem `|V|`.
 5.  Determine o tamanho `|E|`.
@@ -63,6 +63,17 @@ Considere:
 
 > **Atenção:** a aresta `(4,4)` é um laço. No cálculo do grau, um laço é
 > contado duas vezes.
+>
+> ### Ordem |V| = 5.
+> ### Tamanho |E| = 6.
+> 1. Grau do vértice 1 = 3.
+> 2. Grau do vértice 2 = 2.
+> 3. Grau do vértice 3 = 2.
+> 4. Grau do vértice 4 = 4.
+> 5. Grau do vértice 5 = 1.
+>
+>    
+> ![Grafo](https://graphonline.top/tmp/saved/My/MywOOGjinBkWNCtb.png)
 
 ### Plataformas
 
@@ -88,13 +99,13 @@ Utilize o grafo construído na Atividade 1.
 
 ### Registro
 
-  Vértice   Vértices adjacentes   Arestas incidentes
-  --------- --------------------- --------------------
-  1                               
-  2                               
-  3                               
-  4                               
-  5                               
+| Vértice | Vértices adjacentes | Arestas incidentes          |
+|---------|---------------------|-----------------------------|
+| 1       | 2, 4 e 5            | (1,2), (1,4) e (1,5)        |
+| 2       | 1 e 3               | (1,2) e (2,3)               |
+| 3       | 2 e 4               | (2,3) e (3,4)               |
+| 4       | 1, 3 e 4            | (1,4), (3,4) e (4,4)        |
+| 5       | 1                   | (1,5)                       |
 
 ### Plataformas
 
@@ -127,6 +138,13 @@ Crie uma pequena rede de amizades entre essas pessoas.
 ### Questão para reflexão
 
 **O que os vértices e as arestas representam nesse problema?**
+## Os Vértices representam, nesse esquema, pessoas. E as arestas o seus relacionamentos de amizade.
+
+1. O grafo deve ser não dirigido, pois a amizade é recíproca.
+2. O vértice com maior grau é Carolina e Maria, pois ambas têm duas arestas
+
+   
+ ![Grafo](https://graphonline.top/tmp/saved/gk/gkCzxWtvcOyOSiXA.png)
 
 ### Plataformas
 
@@ -156,6 +174,13 @@ mão única.
     -   seu grau de saída.
 6.  Explique por que um grafo não dirigido não representa adequadamente
     essa situação.
+
+## |V| = 4.
+## |E| = 5.
+## Vértice Rua das flores, tem grau de entrada 1 e grau de saída 2.
+
+ ![Grafo](https://graphonline.top/tmp/saved/Zj/ZjLsUKpICjIgVvgi.png)
+
 
 ### Plataformas
 
