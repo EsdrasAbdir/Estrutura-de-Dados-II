@@ -43,6 +43,8 @@ As amizades são:
 
 **Espaço para o seu desenho:** faça o grafo no caderno ou em uma ferramenta de desenho.
 
+![Grafo](https://graphonline.top/tmp/saved/ib/ibFVUYpGRZorgINH.png)
+
 ## 5. Passo a passo: calcule o grau
 Conte quantas linhas chegam a cada círculo. Registre o resultado.
 
